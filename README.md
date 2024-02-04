@@ -12,6 +12,7 @@ This is a Java-based Library Management System (LMS) project developed using Spr
 
 ## **Technologies Used**
 
+- IntelliJ IDEA
 - Java
 - Spring Boot
 - Xampp
@@ -34,11 +35,7 @@ Once the application is running, you can access it through your web browser and 
 
 Contributions are welcome! If you'd like to contribute to the development of this project, please fork the repository and submit a pull request with your changes.
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## **Acknowledgments**
 
 - This project was developed as part of a Java programming course.
-- Special thanks to [insert name] for providing guidance and support during the development process.
