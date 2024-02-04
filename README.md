@@ -23,9 +23,9 @@ This is a Java-based Library Management System (LMS) project developed using Spr
 
 To run the Library Management System project on your local machine, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/library-management-system.git`
+1. **Clone the Repository**: `git clone https://github.com/arben-ilazi/project.git`
 2. **Database Configuration**: Set up a MySQL database and configure the connection properties in `application.properties` file.
-3. **Build and Run**: Navigate to the project directory and run `mvn spring-boot:run` to start the Spring Boot application.
+3. **Build and Run**: Navigate to the project directory and run `./gradlew bootRun` to start the Spring Boot application.
 
 ## **Usage**
 
