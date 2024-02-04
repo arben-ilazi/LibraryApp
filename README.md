@@ -29,8 +29,7 @@ To run the Library Management System project on your local machine, follow these
 
 ## **Usage**
 
-Once the application is running, you can access it through your web browser and perform various tasks such as adding books, registering borrowers, recording transactions, and managing fines through the user-friendly interface.
-
+Once the application is running, you can access it through your web browser and perform various tasks that it offers.
 ## **Contributing**
 
 Contributions are welcome! If you'd like to contribute to the development of this project, please fork the repository and submit a pull request with your changes.
